@@ -1,2 +1,1 @@
-activ31
-cambio fusion activ31
+añadimos 2 lineas de codigo en la rama master el archivo activ32.txt
