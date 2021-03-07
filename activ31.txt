@@ -1,2 +1,1 @@
-activ31
-cambio fusion activ31
+Añadimos varias lineas en el activ31.txt
