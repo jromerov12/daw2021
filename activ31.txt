@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 añadimos 2 lineas de codigo en la rama master el archivo activ32.txt
+=======
+Añadimos varias lineas en el activ31.txt
+>>>>>>> actividad3
